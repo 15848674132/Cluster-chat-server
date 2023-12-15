@@ -1,0 +1,137 @@
+[
+{
+  "directory": "/home/langkai/code/Cluster-chat-server/build/src/server",
+  "command": "/usr/bin/g++  -I/home/langkai/code/Cluster-chat-server/include -I/home/langkai/code/Cluster-chat-server/include/server -I/home/langkai/code/Cluster-chat-server/include/net -I/home/langkai/code/Cluster-chat-server/include/server/db -I/home/langkai/code/Cluster-chat-server/include/server/model -I/home/langkai/code/Cluster-chat-server/include/server/redis -g -g -o CMakeFiles/Chatserver.dir/chatServer.cc.o -c /home/langkai/code/Cluster-chat-server/src/server/chatServer.cc",
+  "file": "/home/langkai/code/Cluster-chat-server/src/server/chatServer.cc"
+},
+{
+  "directory": "/home/langkai/code/Cluster-chat-server/build/src/server",
+  "command": "/usr/bin/g++  -I/home/langkai/code/Cluster-chat-server/include -I/home/langkai/code/Cluster-chat-server/include/server -I/home/langkai/code/Cluster-chat-server/include/net -I/home/langkai/code/Cluster-chat-server/include/server/db -I/home/langkai/code/Cluster-chat-server/include/server/model -I/home/langkai/code/Cluster-chat-server/include/server/redis -g -g -o CMakeFiles/Chatserver.dir/chatService.cc.o -c /home/langkai/code/Cluster-chat-server/src/server/chatService.cc",
+  "file": "/home/langkai/code/Cluster-chat-server/src/server/chatService.cc"
+},
+{
+  "directory": "/home/langkai/code/Cluster-chat-server/build/src/server",
+  "command": "/usr/bin/g++  -I/home/langkai/code/Cluster-chat-server/include -I/home/langkai/code/Cluster-chat-server/include/server -I/home/langkai/code/Cluster-chat-server/include/net -I/home/langkai/code/Cluster-chat-server/include/server/db -I/home/langkai/code/Cluster-chat-server/include/server/model -I/home/langkai/code/Cluster-chat-server/include/server/redis -g -g -o CMakeFiles/Chatserver.dir/main.cc.o -c /home/langkai/code/Cluster-chat-server/src/server/main.cc",
+  "file": "/home/langkai/code/Cluster-chat-server/src/server/main.cc"
+},
+{
+  "directory": "/home/langkai/code/Cluster-chat-server/build/src/server",
+  "command": "/usr/bin/g++  -I/home/langkai/code/Cluster-chat-server/include -I/home/langkai/code/Cluster-chat-server/include/server -I/home/langkai/code/Cluster-chat-server/include/net -I/home/langkai/code/Cluster-chat-server/include/server/db -I/home/langkai/code/Cluster-chat-server/include/server/model -I/home/langkai/code/Cluster-chat-server/include/server/redis -g -g -o CMakeFiles/Chatserver.dir/__/net/Acceptor.cc.o -c /home/langkai/code/Cluster-chat-server/src/net/Acceptor.cc",
+  "file": "/home/langkai/code/Cluster-chat-server/src/net/Acceptor.cc"
+},
+{
+  "directory": "/home/langkai/code/Cluster-chat-server/build/src/server",
+  "command": "/usr/bin/g++  -I/home/langkai/code/Cluster-chat-server/include -I/home/langkai/code/Cluster-chat-server/include/server -I/home/langkai/code/Cluster-chat-server/include/net -I/home/langkai/code/Cluster-chat-server/include/server/db -I/home/langkai/code/Cluster-chat-server/include/server/model -I/home/langkai/code/Cluster-chat-server/include/server/redis -g -g -o CMakeFiles/Chatserver.dir/__/net/Buffer.cc.o -c /home/langkai/code/Cluster-chat-server/src/net/Buffer.cc",
+  "file": "/home/langkai/code/Cluster-chat-server/src/net/Buffer.cc"
+},
+{
+  "directory": "/home/langkai/code/Cluster-chat-server/build/src/server",
+  "command": "/usr/bin/g++  -I/home/langkai/code/Cluster-chat-server/include -I/home/langkai/code/Cluster-chat-server/include/server -I/home/langkai/code/Cluster-chat-server/include/net -I/home/langkai/code/Cluster-chat-server/include/server/db -I/home/langkai/code/Cluster-chat-server/include/server/model -I/home/langkai/code/Cluster-chat-server/include/server/redis -g -g -o CMakeFiles/Chatserver.dir/__/net/Channel.cc.o -c /home/langkai/code/Cluster-chat-server/src/net/Channel.cc",
+  "file": "/home/langkai/code/Cluster-chat-server/src/net/Channel.cc"
+},
+{
+  "directory": "/home/langkai/code/Cluster-chat-server/build/src/server",
+  "command": "/usr/bin/g++  -I/home/langkai/code/Cluster-chat-server/include -I/home/langkai/code/Cluster-chat-server/include/server -I/home/langkai/code/Cluster-chat-server/include/net -I/home/langkai/code/Cluster-chat-server/include/server/db -I/home/langkai/code/Cluster-chat-server/include/server/model -I/home/langkai/code/Cluster-chat-server/include/server/redis -g -g -o CMakeFiles/Chatserver.dir/__/net/CurrentThread.cc.o -c /home/langkai/code/Cluster-chat-server/src/net/CurrentThread.cc",
+  "file": "/home/langkai/code/Cluster-chat-server/src/net/CurrentThread.cc"
+},
+{
+  "directory": "/home/langkai/code/Cluster-chat-server/build/src/server",
+  "command": "/usr/bin/g++  -I/home/langkai/code/Cluster-chat-server/include -I/home/langkai/code/Cluster-chat-server/include/server -I/home/langkai/code/Cluster-chat-server/include/net -I/home/langkai/code/Cluster-chat-server/include/server/db -I/home/langkai/code/Cluster-chat-server/include/server/model -I/home/langkai/code/Cluster-chat-server/include/server/redis -g -g -o CMakeFiles/Chatserver.dir/__/net/DefaultPoller.cc.o -c /home/langkai/code/Cluster-chat-server/src/net/DefaultPoller.cc",
+  "file": "/home/langkai/code/Cluster-chat-server/src/net/DefaultPoller.cc"
+},
+{
+  "directory": "/home/langkai/code/Cluster-chat-server/build/src/server",
+  "command": "/usr/bin/g++  -I/home/langkai/code/Cluster-chat-server/include -I/home/langkai/code/Cluster-chat-server/include/server -I/home/langkai/code/Cluster-chat-server/include/net -I/home/langkai/code/Cluster-chat-server/include/server/db -I/home/langkai/code/Cluster-chat-server/include/server/model -I/home/langkai/code/Cluster-chat-server/include/server/redis -g -g -o CMakeFiles/Chatserver.dir/__/net/EpollPoller.cc.o -c /home/langkai/code/Cluster-chat-server/src/net/EpollPoller.cc",
+  "file": "/home/langkai/code/Cluster-chat-server/src/net/EpollPoller.cc"
+},
+{
+  "directory": "/home/langkai/code/Cluster-chat-server/build/src/server",
+  "command": "/usr/bin/g++  -I/home/langkai/code/Cluster-chat-server/include -I/home/langkai/code/Cluster-chat-server/include/server -I/home/langkai/code/Cluster-chat-server/include/net -I/home/langkai/code/Cluster-chat-server/include/server/db -I/home/langkai/code/Cluster-chat-server/include/server/model -I/home/langkai/code/Cluster-chat-server/include/server/redis -g -g -o CMakeFiles/Chatserver.dir/__/net/EventLoop.cc.o -c /home/langkai/code/Cluster-chat-server/src/net/EventLoop.cc",
+  "file": "/home/langkai/code/Cluster-chat-server/src/net/EventLoop.cc"
+},
+{
+  "directory": "/home/langkai/code/Cluster-chat-server/build/src/server",
+  "command": "/usr/bin/g++  -I/home/langkai/code/Cluster-chat-server/include -I/home/langkai/code/Cluster-chat-server/include/server -I/home/langkai/code/Cluster-chat-server/include/net -I/home/langkai/code/Cluster-chat-server/include/server/db -I/home/langkai/code/Cluster-chat-server/include/server/model -I/home/langkai/code/Cluster-chat-server/include/server/redis -g -g -o CMakeFiles/Chatserver.dir/__/net/EventLoopThread.cc.o -c /home/langkai/code/Cluster-chat-server/src/net/EventLoopThread.cc",
+  "file": "/home/langkai/code/Cluster-chat-server/src/net/EventLoopThread.cc"
+},
+{
+  "directory": "/home/langkai/code/Cluster-chat-server/build/src/server",
+  "command": "/usr/bin/g++  -I/home/langkai/code/Cluster-chat-server/include -I/home/langkai/code/Cluster-chat-server/include/server -I/home/langkai/code/Cluster-chat-server/include/net -I/home/langkai/code/Cluster-chat-server/include/server/db -I/home/langkai/code/Cluster-chat-server/include/server/model -I/home/langkai/code/Cluster-chat-server/include/server/redis -g -g -o CMakeFiles/Chatserver.dir/__/net/EventLoopThreadPool.cc.o -c /home/langkai/code/Cluster-chat-server/src/net/EventLoopThreadPool.cc",
+  "file": "/home/langkai/code/Cluster-chat-server/src/net/EventLoopThreadPool.cc"
+},
+{
+  "directory": "/home/langkai/code/Cluster-chat-server/build/src/server",
+  "command": "/usr/bin/g++  -I/home/langkai/code/Cluster-chat-server/include -I/home/langkai/code/Cluster-chat-server/include/server -I/home/langkai/code/Cluster-chat-server/include/net -I/home/langkai/code/Cluster-chat-server/include/server/db -I/home/langkai/code/Cluster-chat-server/include/server/model -I/home/langkai/code/Cluster-chat-server/include/server/redis -g -g -o CMakeFiles/Chatserver.dir/__/net/InetAddress.cc.o -c /home/langkai/code/Cluster-chat-server/src/net/InetAddress.cc",
+  "file": "/home/langkai/code/Cluster-chat-server/src/net/InetAddress.cc"
+},
+{
+  "directory": "/home/langkai/code/Cluster-chat-server/build/src/server",
+  "command": "/usr/bin/g++  -I/home/langkai/code/Cluster-chat-server/include -I/home/langkai/code/Cluster-chat-server/include/server -I/home/langkai/code/Cluster-chat-server/include/net -I/home/langkai/code/Cluster-chat-server/include/server/db -I/home/langkai/code/Cluster-chat-server/include/server/model -I/home/langkai/code/Cluster-chat-server/include/server/redis -g -g -o CMakeFiles/Chatserver.dir/__/net/Logger.cc.o -c /home/langkai/code/Cluster-chat-server/src/net/Logger.cc",
+  "file": "/home/langkai/code/Cluster-chat-server/src/net/Logger.cc"
+},
+{
+  "directory": "/home/langkai/code/Cluster-chat-server/build/src/server",
+  "command": "/usr/bin/g++  -I/home/langkai/code/Cluster-chat-server/include -I/home/langkai/code/Cluster-chat-server/include/server -I/home/langkai/code/Cluster-chat-server/include/net -I/home/langkai/code/Cluster-chat-server/include/server/db -I/home/langkai/code/Cluster-chat-server/include/server/model -I/home/langkai/code/Cluster-chat-server/include/server/redis -g -g -o CMakeFiles/Chatserver.dir/__/net/Poller.cc.o -c /home/langkai/code/Cluster-chat-server/src/net/Poller.cc",
+  "file": "/home/langkai/code/Cluster-chat-server/src/net/Poller.cc"
+},
+{
+  "directory": "/home/langkai/code/Cluster-chat-server/build/src/server",
+  "command": "/usr/bin/g++  -I/home/langkai/code/Cluster-chat-server/include -I/home/langkai/code/Cluster-chat-server/include/server -I/home/langkai/code/Cluster-chat-server/include/net -I/home/langkai/code/Cluster-chat-server/include/server/db -I/home/langkai/code/Cluster-chat-server/include/server/model -I/home/langkai/code/Cluster-chat-server/include/server/redis -g -g -o CMakeFiles/Chatserver.dir/__/net/Socket.cc.o -c /home/langkai/code/Cluster-chat-server/src/net/Socket.cc",
+  "file": "/home/langkai/code/Cluster-chat-server/src/net/Socket.cc"
+},
+{
+  "directory": "/home/langkai/code/Cluster-chat-server/build/src/server",
+  "command": "/usr/bin/g++  -I/home/langkai/code/Cluster-chat-server/include -I/home/langkai/code/Cluster-chat-server/include/server -I/home/langkai/code/Cluster-chat-server/include/net -I/home/langkai/code/Cluster-chat-server/include/server/db -I/home/langkai/code/Cluster-chat-server/include/server/model -I/home/langkai/code/Cluster-chat-server/include/server/redis -g -g -o CMakeFiles/Chatserver.dir/__/net/TcpConnection.cc.o -c /home/langkai/code/Cluster-chat-server/src/net/TcpConnection.cc",
+  "file": "/home/langkai/code/Cluster-chat-server/src/net/TcpConnection.cc"
+},
+{
+  "directory": "/home/langkai/code/Cluster-chat-server/build/src/server",
+  "command": "/usr/bin/g++  -I/home/langkai/code/Cluster-chat-server/include -I/home/langkai/code/Cluster-chat-server/include/server -I/home/langkai/code/Cluster-chat-server/include/net -I/home/langkai/code/Cluster-chat-server/include/server/db -I/home/langkai/code/Cluster-chat-server/include/server/model -I/home/langkai/code/Cluster-chat-server/include/server/redis -g -g -o CMakeFiles/Chatserver.dir/__/net/TcpServer.cc.o -c /home/langkai/code/Cluster-chat-server/src/net/TcpServer.cc",
+  "file": "/home/langkai/code/Cluster-chat-server/src/net/TcpServer.cc"
+},
+{
+  "directory": "/home/langkai/code/Cluster-chat-server/build/src/server",
+  "command": "/usr/bin/g++  -I/home/langkai/code/Cluster-chat-server/include -I/home/langkai/code/Cluster-chat-server/include/server -I/home/langkai/code/Cluster-chat-server/include/net -I/home/langkai/code/Cluster-chat-server/include/server/db -I/home/langkai/code/Cluster-chat-server/include/server/model -I/home/langkai/code/Cluster-chat-server/include/server/redis -g -g -o CMakeFiles/Chatserver.dir/__/net/Thread.cc.o -c /home/langkai/code/Cluster-chat-server/src/net/Thread.cc",
+  "file": "/home/langkai/code/Cluster-chat-server/src/net/Thread.cc"
+},
+{
+  "directory": "/home/langkai/code/Cluster-chat-server/build/src/server",
+  "command": "/usr/bin/g++  -I/home/langkai/code/Cluster-chat-server/include -I/home/langkai/code/Cluster-chat-server/include/server -I/home/langkai/code/Cluster-chat-server/include/net -I/home/langkai/code/Cluster-chat-server/include/server/db -I/home/langkai/code/Cluster-chat-server/include/server/model -I/home/langkai/code/Cluster-chat-server/include/server/redis -g -g -o CMakeFiles/Chatserver.dir/__/net/Timestamp.cc.o -c /home/langkai/code/Cluster-chat-server/src/net/Timestamp.cc",
+  "file": "/home/langkai/code/Cluster-chat-server/src/net/Timestamp.cc"
+},
+{
+  "directory": "/home/langkai/code/Cluster-chat-server/build/src/server",
+  "command": "/usr/bin/g++  -I/home/langkai/code/Cluster-chat-server/include -I/home/langkai/code/Cluster-chat-server/include/server -I/home/langkai/code/Cluster-chat-server/include/net -I/home/langkai/code/Cluster-chat-server/include/server/db -I/home/langkai/code/Cluster-chat-server/include/server/model -I/home/langkai/code/Cluster-chat-server/include/server/redis -g -g -o CMakeFiles/Chatserver.dir/db/db.cc.o -c /home/langkai/code/Cluster-chat-server/src/server/db/db.cc",
+  "file": "/home/langkai/code/Cluster-chat-server/src/server/db/db.cc"
+},
+{
+  "directory": "/home/langkai/code/Cluster-chat-server/build/src/server",
+  "command": "/usr/bin/g++  -I/home/langkai/code/Cluster-chat-server/include -I/home/langkai/code/Cluster-chat-server/include/server -I/home/langkai/code/Cluster-chat-server/include/net -I/home/langkai/code/Cluster-chat-server/include/server/db -I/home/langkai/code/Cluster-chat-server/include/server/model -I/home/langkai/code/Cluster-chat-server/include/server/redis -g -g -o CMakeFiles/Chatserver.dir/model/friendModel.cc.o -c /home/langkai/code/Cluster-chat-server/src/server/model/friendModel.cc",
+  "file": "/home/langkai/code/Cluster-chat-server/src/server/model/friendModel.cc"
+},
+{
+  "directory": "/home/langkai/code/Cluster-chat-server/build/src/server",
+  "command": "/usr/bin/g++  -I/home/langkai/code/Cluster-chat-server/include -I/home/langkai/code/Cluster-chat-server/include/server -I/home/langkai/code/Cluster-chat-server/include/net -I/home/langkai/code/Cluster-chat-server/include/server/db -I/home/langkai/code/Cluster-chat-server/include/server/model -I/home/langkai/code/Cluster-chat-server/include/server/redis -g -g -o CMakeFiles/Chatserver.dir/model/groupModel.cc.o -c /home/langkai/code/Cluster-chat-server/src/server/model/groupModel.cc",
+  "file": "/home/langkai/code/Cluster-chat-server/src/server/model/groupModel.cc"
+},
+{
+  "directory": "/home/langkai/code/Cluster-chat-server/build/src/server",
+  "command": "/usr/bin/g++  -I/home/langkai/code/Cluster-chat-server/include -I/home/langkai/code/Cluster-chat-server/include/server -I/home/langkai/code/Cluster-chat-server/include/net -I/home/langkai/code/Cluster-chat-server/include/server/db -I/home/langkai/code/Cluster-chat-server/include/server/model -I/home/langkai/code/Cluster-chat-server/include/server/redis -g -g -o CMakeFiles/Chatserver.dir/model/offlineMessageModel.cc.o -c /home/langkai/code/Cluster-chat-server/src/server/model/offlineMessageModel.cc",
+  "file": "/home/langkai/code/Cluster-chat-server/src/server/model/offlineMessageModel.cc"
+},
+{
+  "directory": "/home/langkai/code/Cluster-chat-server/build/src/server",
+  "command": "/usr/bin/g++  -I/home/langkai/code/Cluster-chat-server/include -I/home/langkai/code/Cluster-chat-server/include/server -I/home/langkai/code/Cluster-chat-server/include/net -I/home/langkai/code/Cluster-chat-server/include/server/db -I/home/langkai/code/Cluster-chat-server/include/server/model -I/home/langkai/code/Cluster-chat-server/include/server/redis -g -g -o CMakeFiles/Chatserver.dir/model/userModel.cc.o -c /home/langkai/code/Cluster-chat-server/src/server/model/userModel.cc",
+  "file": "/home/langkai/code/Cluster-chat-server/src/server/model/userModel.cc"
+},
+{
+  "directory": "/home/langkai/code/Cluster-chat-server/build/src/server",
+  "command": "/usr/bin/g++  -I/home/langkai/code/Cluster-chat-server/include -I/home/langkai/code/Cluster-chat-server/include/server -I/home/langkai/code/Cluster-chat-server/include/net -I/home/langkai/code/Cluster-chat-server/include/server/db -I/home/langkai/code/Cluster-chat-server/include/server/model -I/home/langkai/code/Cluster-chat-server/include/server/redis -g -g -o CMakeFiles/Chatserver.dir/redis/redis.cc.o -c /home/langkai/code/Cluster-chat-server/src/server/redis/redis.cc",
+  "file": "/home/langkai/code/Cluster-chat-server/src/server/redis/redis.cc"
+},
+{
+  "directory": "/home/langkai/code/Cluster-chat-server/build/src/client",
+  "command": "/usr/bin/g++  -I/home/langkai/code/Cluster-chat-server/include -I/home/langkai/code/Cluster-chat-server/include/server -I/home/langkai/code/Cluster-chat-server/include/net -I/home/langkai/code/Cluster-chat-server/include/server/db -I/home/langkai/code/Cluster-chat-server/include/server/model -I/home/langkai/code/Cluster-chat-server/include/server/redis -g -g -o CMakeFiles/ChatClient.dir/main.cc.o -c /home/langkai/code/Cluster-chat-server/src/client/main.cc",
+  "file": "/home/langkai/code/Cluster-chat-server/src/client/main.cc"
+}
+]
